@@ -969,7 +969,7 @@ plt.text(x=2,y=17,s=f'R\N{SUPERSCRIPT TWO} = {r**2}')
 
 Бисериальный коэффициент корреляции вычисляется по формуле:
 
-$$ r_{bis} = \frac{(\bar{Y_1} - \bar{Y_2}) \cdot \sqrt{p \cdot q}}{S_Y} $$
+$$ r_{bis} = \frac{(\bar{Y_1} - \bar{Y_0}) \cdot \sqrt{p \cdot q}}{S_Y} $$
 
 где:
 
@@ -1010,7 +1010,7 @@ $$ r_{bis} = \frac{(\bar{Y_1} - \bar{Y_2}) \cdot \sqrt{p \cdot q}}{S_Y} $$
 
 5. Подставить в формулу бисериального коэффициента корреляции:
 
-    $$ r_{bis} = \frac{(\bar{Y}_1 - \bar{Y}_2) \cdot \sqrt{p \cdot q}}{S_Y} $$
+    $$ r_{bis} = \frac{(\bar{Y}_1 - \bar{Y}_0) \cdot \sqrt{p \cdot q}}{S_Y} $$
 
 6. Проверить статистическую значимость выявленной корреляции.
 
