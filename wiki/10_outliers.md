@@ -396,7 +396,7 @@ $$ \operatorname{erf}(x) = \frac{2}{\sqrt{\pi}} \int_0^x{e^{-t^2}dt} $$
 
 <figure style="background: white">
 
-![График функции ошибок](../svg/Error_Function.svg.png)
+![График функции ошибок](../img/Error_Function.svg.png)
 
 </figure>
 
@@ -408,7 +408,7 @@ $$ \operatorname{erfc}(x) = 1 - \operatorname{erf}(x) = \frac{2}{\sqrt{\pi}} \in
 
 <figure style="background: white">
 
-![График функции ошибок](../svg/Error_Function_Complementary.svg.png)
+![График функции ошибок](../img/Error_Function_Complementary.svg.png)
 
 </figure>
 
