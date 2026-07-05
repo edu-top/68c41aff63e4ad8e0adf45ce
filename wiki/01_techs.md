@@ -747,6 +747,8 @@ $$ W'(x,x_k) = W'(x_k) + W''(x_k)(x-x_k). $$
 
 - **Языки программирования**: Python (основной выбор), R (статистика), Julia (высокая производительность), C++/Rust (производительные компоненты).
 
+  Сегодня чаще всего для создания программ машинного обучения используются языки R, Python, Scala и Julia. Они поддерживаются многими интегрированными средами разработки, в частности, R-Studio, R-Brain, Visual Studio, Eclipse, PyCharm, Spyder, IntelliJ IDEA, Jupyter Notebooks, Juno и др.[^machine-learning]
+
 - **Библиотеки и фреймворки**:
 
     - Для общего МО: scikit-learn, XGBoost, LightGBM, CatBoost.
@@ -941,3 +943,4 @@ $$ W'(x,x_k) = W'(x_k) + W''(x_k)(x-x_k). $$
 [^ml-tekhnologii]: [Технологии ML при создании продукта](https://www.decosystems.ru/ml-tekhnologii/)
 [^vvedeniye-v-mashinnoye-obucheniye-i-iskusstvennyye-neyronnyye-seti]: [Введение в машинное обучение и искусственные нейронные сети](https://foobar167.github.io/page/vvedeniye-v-mashinnoye-obucheniye-i-iskusstvennyye-neyronnyye-seti.html)
 [^774844]: [Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/)
+[^machine-learning]: [What is machine learning ?](https://www.ibm.com/think/topics/machine-learning)
